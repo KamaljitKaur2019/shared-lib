@@ -1,4 +1,4 @@
 def call()
 {
-	echo "Kamal DevOps learning"
+	echo "Welcome to shared library"
 }
